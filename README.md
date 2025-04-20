@@ -22,16 +22,7 @@ This project provides an automated system to scrape AI engineering job listings 
 - LangChain agent interface allows queries like:  
   "Get 10 latest AI engineer jobs in Morocco"
 
-## Project Structure
 
-SCRAPELLM/
-├── .env                      # LinkedIn credentials and API keys
-├── main.py                   # Entry point for the application
-├── agent/
-│   ├── job_scraper_agent.py  # LangChain agent logic
-│   └── scraper.py            # Playwright scraping logic
-├── requirements.txt
-└── README.md
 
 ## Setup Instructions
 
